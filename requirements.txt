@@ -2,8 +2,11 @@ pandas
 numpy
 geopandas
 shapely
-libpysal
-esda
-spreg
-statsmodels
+pyproj
+fiona
 matplotlib
+openpyxl
+pdfplumber
+Pillow
+imageio-ffmpeg
+# Advan download: pip install "deweydatapy@git+https://github.com/Dewey-Data/deweydatapy"
